@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Covid19_Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="statistics_for_today">Statistics for today</string>
+
+    <string-array name="countries">
+        <item id="world">World</item>
+        <item id="usa">USA</item>
+        <item id="russian">Russian</item>
+        <item id="spain">Spain</item>
+        <item id="uk">UK</item>
+        <item id="brazil">Brazil</item>
+        <item id="italy">Italy</item>
+        <item id="france">France</item>
+        <item id="germany">Germany</item>
+        <item id="turkey">Turkey</item>
+
+    </string-array>
+</resources>
